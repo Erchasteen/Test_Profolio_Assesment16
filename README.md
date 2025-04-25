@@ -32,7 +32,7 @@ create a useful, real-world tool that makes it easier to manage products and job
    
  - Project 2 Report
 ***
-#### Project 3 Title
+####  Academic Research and Resource Curation
 1. Initial project idea: I chose a topic I was interested in and also had strong research potential. The ultimate goal was to find credible academic sources and begin building a foundation for a well-researched paper. I needed to solve the problem of gathering reliable, relevant information from scholarly sources.
 2. Tools I used: I used the college library database (Seeker) to do an advanced search on my topic as well as Google Scholar to find additional sources through the “Cited By” feature. My OneDrive Academic Research folder was used to save PDFs and permalinks.
 3. Challenges I faced: One challenge was narrowing down my search terms to get useful, focused results. At first, I got too many unrelated articles. I fixed this by adjusting my search filters and using keywords more strategically. Another challenge was identifying which cited articles were relevant.
