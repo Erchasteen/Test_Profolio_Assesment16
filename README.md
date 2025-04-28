@@ -2,6 +2,8 @@
 ![Banner Photo](https://github.com/user-attachments/assets/dccd51f8-5c36-46c9-8b75-cd1850e20778)
 # Emmalyn Chasteen
 Contact Info: Emmalyn Chasteen
+Email: emmalycnahsteen2@gmail.com
+Phone: 302-9**-7434
 
 ![Profile Photo](https://github.com/user-attachments/assets/cfe582b9-4a35-4926-a247-1bdf47c1870f)
 ### About Me 
