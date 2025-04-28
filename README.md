@@ -1,4 +1,5 @@
 
+![Profile Photo](https://github.com/user-attachments/assets/cfe582b9-4a35-4926-a247-1bdf47c1870f)
 
 # Emmalyn Chasteen
 Contact Info: Emmalyn Chasteen
@@ -22,15 +23,6 @@ I watched class videos, looked up a few Excel tips online, and asked a friend fo
 create a useful, real-world tool that makes it easier to manage products and job applications in one workbook. I did achieve that. If I had to  make any improvements I would integrate it  with Outlook/Google Calendar for application reminders and follow-ups.
 6. Summary: A dual-purpose Excel workbook combining inventory tracking and job application management using formulas, logic, and formatting to solve everyday organizational challenges creatively and efficiently.
 ![Project 1](https://github.com/user-attachments/assets/5095f728-78a5-4528-8c29-2dd5012457e6)
-
-***
-#### Python: Grade calucator and HMI Tracker
-1. Initial project idea: This project helps solve everyday problems: understanding how course grades are calculated, and knowing whether someone should adjust their calorie intake based on their weight and height.
-2. Tools I used: I used Python to write two separate programs. The first calculates quiz and assessment averages with weighted grades. The second calculates a Health Metrics Index (HMI) using input for height and weight, with logic to give advice based on the result.
-3. Challenges I faced: The hardest part was making sure data types were handled properly (like converting strings to floats) and getting the formulas right, especially the HMI calculation. I also had to make sure my print formatting was clear and readable.
-4. Other Resources: I used class videos, basic Python tutorials, and double-checked the math formulas online. I tested my code with different inputs to make sure everything worked.
-5. Result: I successfully created two simple but helpful programs: one to understand grade averages and another to give basic health advice. If I had more time, I’d add input validation and maybe graphs or visuals to make it more interactive.
-6. Summary: Two Python tools to calculate course grades and give calorie advice using math, logic, and clean formatting.
    
 ***
 ####  Academic Research and Resource Curation
@@ -42,7 +34,8 @@ create a useful, real-world tool that makes it easier to manage products and job
 6. Summary: This project helped me build strong academic research skills by selecting a topic, finding scholarly articles, and organizing sources for an upcoming annotated bibliography and research paper.
 <img width="955" alt="Project 2" src="https://github.com/user-attachments/assets/ca8269f2-e54e-4cf2-bf38-114c20274722" />
 
- #### Jdoodle and StudentCard/Exponent Calculator 
+***
+#### Jdoodle and StudentCard/Exponent Calculator 
 1. Initial Project Idea: I created this project to help students easily display their academic info and perform exponent calculations using simple Python programs.
 2. Tools I Used: I used JDoodle and Python to write and test my code.
 3. Challenges I Faced: I faced issues with input formatting and typecasting, which I solved by testing and using comments for clarity.
