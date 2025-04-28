@@ -1,3 +1,5 @@
+
+
 # Emmalyn Chasteen
 Contact Info: Emmalyn Chasteen
 ### About Me 
@@ -19,8 +21,8 @@ I watched class videos, looked up a few Excel tips online, and asked a friend fo
 5. Result: What did you set out to achieve? Did you achieve it? What improvements would you like to make if you had a chance to take this further? 
 create a useful, real-world tool that makes it easier to manage products and job applications in one workbook. I did achieve that. If I had to  make any improvements I would integrate it  with Outlook/Google Calendar for application reminders and follow-ups.
 6. Summary: A dual-purpose Excel workbook combining inventory tracking and job application management using formulas, logic, and formatting to solve everyday organizational challenges creatively and efficiently.
+![Project 1](https://github.com/user-attachments/assets/5095f728-78a5-4528-8c29-2dd5012457e6)
 
- - Project 1 Report
 ***
 #### Python: Grade calucator and HMI Tracker
 1. Initial project idea: This project helps solve everyday problems: understanding how course grades are calculated, and knowing whether someone should adjust their calorie intake based on their weight and height.
@@ -30,7 +32,6 @@ create a useful, real-world tool that makes it easier to manage products and job
 5. Result: I successfully created two simple but helpful programs: one to understand grade averages and another to give basic health advice. If I had more time, I’d add input validation and maybe graphs or visuals to make it more interactive.
 6. Summary: Two Python tools to calculate course grades and give calorie advice using math, logic, and clean formatting.
    
- - Project 2 Report
 ***
 ####  Academic Research and Resource Curation
 1. Initial project idea: I chose a topic I was interested in and also had strong research potential. The ultimate goal was to find credible academic sources and begin building a foundation for a well-researched paper. I needed to solve the problem of gathering reliable, relevant information from scholarly sources.
@@ -39,7 +40,8 @@ create a useful, real-world tool that makes it easier to manage products and job
 4. Other Resources: I used the research videos and guides from class to help with database searches. I didn’t work with anyone directly, but I followed all the steps and instructions provided by the module closely
 5. Result: I set out to find high-quality, academic articles for use in my annotated bibliography and later assignments. I achieved this by using advanced search methods and selecting articles based on citations. If I could improve the project, I’d dig deeper into newer articles to ensure I have the most up-to-date research.
 6. Summary: This project helped me build strong academic research skills by selecting a topic, finding scholarly articles, and organizing sources for an upcoming annotated bibliography and research paper.
-   
+<img width="955" alt="Project 2" src="https://github.com/user-attachments/assets/ca8269f2-e54e-4cf2-bf38-114c20274722" />
+
  #### Jdoodle and StudentCard/Exponent Calculator 
 1. Initial Project Idea: I created this project to help students easily display their academic info and perform exponent calculations using simple Python programs.
 2. Tools I Used: I used JDoodle and Python to write and test my code.
@@ -47,3 +49,4 @@ create a useful, real-world tool that makes it easier to manage products and job
 4. Other Resources: I used Python documentation and tested the code with help from classmates for feedback.
 5. Result: I achieved my goal, and I would improve the programs by adding more features like input validation and multiple student entries.
 6. Summary: This project includes two beginner Python tools—a student info card and exponent calculator—designed to practice basic input, output, and operations.
+<img width="884" alt="project 3" src="https://github.com/user-attachments/assets/21aaf6c1-aed0-47a9-a7d0-e6f1fdb401a1" />
