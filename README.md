@@ -40,4 +40,10 @@ create a useful, real-world tool that makes it easier to manage products and job
 5. Result: I set out to find high-quality, academic articles for use in my annotated bibliography and later assignments. I achieved this by using advanced search methods and selecting articles based on citations. If I could improve the project, I’d dig deeper into newer articles to ensure I have the most up-to-date research.
 6. Summary: This project helped me build strong academic research skills by selecting a topic, finding scholarly articles, and organizing sources for an upcoming annotated bibliography and research paper.
    
- - Project 3 Report
+ #### Jdoodle and StudentCard/Exponent Calculator 
+1. Initial Project Idea: I created this project to help students easily display their academic info and perform exponent calculations using simple Python programs.
+2. Tools I Used: I used JDoodle and Python to write and test my code.
+3. Challenges I Faced: I faced issues with input formatting and typecasting, which I solved by testing and using comments for clarity.
+4. Other Resources: I used Python documentation and tested the code with help from classmates for feedback.
+5. Result: I achieved my goal, and I would improve the programs by adding more features like input validation and multiple student entries.
+6. Summary: This project includes two beginner Python tools—a student info card and exponent calculator—designed to practice basic input, output, and operations.
