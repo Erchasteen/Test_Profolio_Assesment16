@@ -1,8 +1,9 @@
 
-![Profile Photo](https://github.com/user-attachments/assets/cfe582b9-4a35-4926-a247-1bdf47c1870f)
-
+![Banner Photo](https://github.com/user-attachments/assets/dccd51f8-5c36-46c9-8b75-cd1850e20778)
 # Emmalyn Chasteen
 Contact Info: Emmalyn Chasteen
+
+![Profile Photo](https://github.com/user-attachments/assets/cfe582b9-4a35-4926-a247-1bdf47c1870f)
 ### About Me 
 I am an experienced Team Leader and Customer Service professional with over 7 years of proven expertise in the fast food industry and operations management. Skilled in team coordination, problem-solving, cash handling, and quality control, I excel at leading high-performing teams to deliver exceptional service in fast-paced environments. Proficient in tools like Excel, Python, and OneDrive, I bring a reliable skill set, a strong commitment to efficiency and customer satisfaction, and a deep passion for supporting team growth and development, making me a valuable asset to any workplace.
 
